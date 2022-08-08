@@ -7,7 +7,7 @@ Teste afim de validar realização do login, ordenação dos produtos, seleção
 
 
 ## Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Junit, ChromeDriver e um editor (utilizado InteliiJ IDEA)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Junit, Java JDK, ChromeDriver e um editor (utilizado InteliiJ IDEA)
 
 ## Tecnologias/Ferramentas Utilizadas
 
